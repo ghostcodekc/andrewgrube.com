@@ -1,0 +1,14 @@
+# section information
+section:
+  name: Achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+  - title: AWS CSAA Certificate
+    image: images/achievements/awscsaa.jpg
+    summary: AWS Solutions Architect Associate Certification 09/2018 - 09/2020
