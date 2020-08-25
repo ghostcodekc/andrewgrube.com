@@ -13,13 +13,13 @@ order = [".jpg$", ".gif$"]
 # An arbitrary name for this target.
 name = "dev"
 URL = "s3://dev.andrewgrube.com?region=us-east-1"
-cloudFrontDistributionID = "E1LI6SYCVYI9UP"
+cloudFrontDistributionID = "E2BJFBG227Q6P7"
 
 [[deployment.targets]]
 # An arbitrary name for this target.
 name = "prod"
 URL = "s3://andrewgrube.com?region=us-east-1"
-cloudFrontDistributionID = "E2BJFBG227Q6P7"
+cloudFrontDistributionID = "E1LI6SYCVYI9UP"
 
 
 

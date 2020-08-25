@@ -12,3 +12,7 @@ Personal website and blog
 - hugo deploy --target=dev
   or
 - hugo deploy --target=prod
+
+## Other
+
+- AWS Forum discussion on Certificate: https://forums.aws.amazon.com/message.jspa?messageID=953716#953716
